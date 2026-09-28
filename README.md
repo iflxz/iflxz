@@ -1,33 +1,28 @@
 <div align="center">
 
-<img src="YOUR_BANNER_GIF_URL" width="100%">
+<img src="https://komarev.com/ghpvc/?username=iflxz&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-# Hi, I'm Vinicius 👋
+<br><br>
 
-### FullStack Developer • React · Node.js · Python
+# Hi there! 👋 I'm Vinicius
 
-I'm a FullStack Developer focused on building modern web applications, from responsive interfaces to structured back-end services.
+### FullStack Developer
+
+I'm a developer passionate about technology, programming and building things that solve real problems.
+
+<br>
+
+<a href="https://github.com/iflxz">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,nodejs,python,mysql,postgres,git,github" />
+</a>
 
 </div>
 
 ---
 
-## ✨ About Me
+## 💻 Tech Stack
 
-I'm a Systems Analysis and Development student passionate about software development and technology.
-
-* 🎯 Focused on FullStack Development
-* 🧩 Building web applications and REST APIs
-* 🚀 Always learning and improving my skills
-* 🇧🇷 Based in Brazil
-
----
-
-## 🛠️ Tech Stack
-
-The technologies I work with and study.
-
-### 🎨 Front-end
+### 🎨 Frontend
 
 <div align="center">
 
@@ -35,19 +30,11 @@ The technologies I work with and study.
 
 </div>
 
-### ⚙️ Back-end
+### ⚙️ Backend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,python" />
-
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,mysql,postgres" />
 
 </div>
 
@@ -61,27 +48,16 @@ The technologies I work with and study.
 
 ---
 
-## 📌 What I Build
+## 👨‍💻 About Me
 
-The kinds of systems and projects I'm interested in building.
+<div align="center">
 
-* 📦 **Business Systems**
+🎓 Systems Analysis and Development student
+💻 Focused on FullStack Development
+🚀 Always learning and building new projects
+🇧🇷 Based in Brazil
 
-  * Inventory and stock management
-  * Operational workflows
-  * Internal management systems
-
-* 🧠 **Back-end & Integrations**
-
-  * REST API development
-  * System integrations
-  * Process automation
-
-* 📊 **Dashboards & Admin Panels**
-
-  * Business dashboards
-  * Data management interfaces
-  * Modern and responsive interfaces
+</div>
 
 ---
 
@@ -97,7 +73,7 @@ The kinds of systems and projects I'm interested in building.
 
 ---
 
-## 📬 Get in Touch
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -112,13 +88,5 @@ The kinds of systems and projects I'm interested in building.
 <a href="mailto:viniciuseduardomedeiros12@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! ⭐
 
 </div>
