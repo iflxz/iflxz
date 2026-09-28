@@ -1,54 +1,53 @@
 <div align="center">
 
-# Hi there! 👋 I'm Vinicius
+<img src="YOUR_BANNER_GIF_URL" width="100%">
 
-### FullStack Developer
+# Hi, I'm Vinicius 👋
 
-I'm a developer passionate about technology, programming and building things that solve real problems.
+### FullStack Developer • React · Node.js · Python
+
+I'm a FullStack Developer focused on building modern web applications, from responsive interfaces to structured back-end services.
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## ✨ About Me
 
-### 🎨 Frontend
+I'm a Systems Analysis and Development student passionate about software development and technology.
+
+* 🎯 Focused on FullStack Development
+* 🧩 Building web applications and REST APIs
+* 🚀 Always learning and improving my skills
+* 🇧🇷 Based in Brazil
+
+---
+
+## 🛠️ Tech Stack
+
+The technologies I work with and study.
+
+### 🎨 Front-end
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="TailwindCSS" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript / TSX" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts" />
 
 </div>
 
-### ⚙️ Backend
+### ⚙️ Back-end
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
-<img width="12" />
+<img src="https://skillicons.dev/icons?i=nodejs,python" />
 
-<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-<img width="12" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-<img width="12" />
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 </div>
 
@@ -56,25 +55,33 @@ I'm a developer passionate about technology, programming and building things tha
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 📌 What I Build
 
-<div align="center">
+The kinds of systems and projects I'm interested in building.
 
-🎓 Systems Analysis and Development student
-💻 Focused on FullStack Development
-🚀 Always learning and building new projects
-🇧🇷 Based in Brazil
+* 📦 **Business Systems**
 
-</div>
+  * Inventory and stock management
+  * Operational workflows
+  * Internal management systems
+
+* 🧠 **Back-end & Integrations**
+
+  * REST API development
+  * System integrations
+  * Process automation
+
+* 📊 **Dashboards & Admin Panels**
+
+  * Business dashboards
+  * Data management interfaces
+  * Modern and responsive interfaces
 
 ---
 
@@ -90,21 +97,28 @@ I'm a developer passionate about technology, programming and building things tha
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Get in Touch
 
 <div align="center">
 
 <a href="https://github.com/iflxz">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/vinicius-eduardo-medeiros">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:viniciuseduardomedeiros12@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+</div>
