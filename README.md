@@ -4,7 +4,7 @@
 
 <br><br>
 
-# Hi there! 👋 I'm Vinicius
+# Hi there! I'm Vinicius
 
 ### FullStack Developer
 
@@ -14,9 +14,9 @@ I'm a developer passionate about technology, programming and building things tha
 
 ---
 
-## 💻 Tech Stack
+## - Tech Stack
 
-### 🎨 Frontend
+### - Frontend
 
 <div align="center">
 
@@ -29,7 +29,7 @@ I'm a developer passionate about technology, programming and building things tha
 
 </div>
 
-### ⚙️ Backend
+### - Backend
 
 <div align="center">
 
@@ -40,7 +40,7 @@ I'm a developer passionate about technology, programming and building things tha
 
 </div>
 
-### 🛠️ Other Skills
+### - Other Skills
 
 <div align="center">
 
@@ -51,15 +51,15 @@ I'm a developer passionate about technology, programming and building things tha
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 <div align="center">
 
-🎓 Systems Analysis and Development student
+- Systems Analysis and Development student
 
-💻 Focused on FullStack Development
+- Focused on FullStack Development
 
-🚀 Always learning and building new projects
+- Always learning and building new projects
 
 🇧🇷 Based in Brazil
 
@@ -67,11 +67,11 @@ I'm a developer passionate about technology, programming and building things tha
 
 ---
 
-## 📊 GitHub Stats
+## - GitHub Stats
 
 <div align="center">
 
-## 📊 GitHub Stats
+## - GitHub Stats
 
 <div align="center">
 
@@ -84,7 +84,7 @@ I'm a developer passionate about technology, programming and building things tha
 
 ---
 
-## 🌐 Connect With Me
+## - Connect With Me
 
 <div align="center">
 
@@ -106,6 +106,6 @@ I'm a developer passionate about technology, programming and building things tha
 
 <div align="center">
 
-### Thanks for visiting my profile! 🚀
+### Thanks for visiting my profile!
 
 </div>
