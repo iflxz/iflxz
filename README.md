@@ -1,3 +1,19 @@
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=iflxz&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<br><br>
+
+# Hi there! 👋 I'm Vinicius
+
+### FullStack Developer
+
+I'm a developer passionate about technology, programming and building things that solve real problems.
+
+</div>
+
+---
+
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
@@ -18,17 +34,4 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</div>
-
-### 🛠️ Other Skills
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
+<img src="https://img.shields.io/badge/Python-3776AB?styl
