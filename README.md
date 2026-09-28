@@ -71,9 +71,14 @@ I'm a developer passionate about technology, programming and building things tha
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iflxz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iflxz&layout=compact&langs_count=8&theme=tokyonight"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=iflxz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
 
 </div>
 
